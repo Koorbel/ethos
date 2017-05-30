@@ -1,0 +1,11 @@
+Prezados, favor respeitar os seguintes tópicos!
+
+- Utilizem o documento "Capa Base" para realizar a criação dos mesmos com um padrão. Para isso, basta copiar o arquivo existente e preencher com as informações necessárias para cada documento específico.
+- A fonte utilizada deve ser "Calibri" (Tam 14 para títulos e 12 para textos).
+- As tabelas (quando necessária) devem ter uma largura padrão de acordo com a tabela "Histórico de Revisão".
+- Não esquecer de preencher o "Histórico de Revisão" sempre que realizarem as alterações.
+- Após cada alteração, salvar os documentos na pasta "Alterados".
+- Os nomes dos arquivos deverão seguir o padrão de exemplo: "01 - Ethos - Termo de Abertura de Projeto".
+*** Será necessário criar do zero o documento "Diagrama de caso de uso" e este será o doc de número 05***
+
+Qualquer dúvida, favor entrar em contato comigo!
